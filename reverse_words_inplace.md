@@ -8,7 +8,7 @@ For example:
 
 ### Steps: 
 
-### Part one: Reverse the string, no each word. 
+### Part one: Reverse the string. 
 1. create a method to reverse the whole string. Called `reverse_string`
 2. Takes as a parameters (string, first index, last index)
 3. While the first_index is less than the last one *and* the length of the string. 
